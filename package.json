@@ -8,6 +8,6 @@
     "node-gyp": "5.1.0"
   },
   "dependencies": {
-    "graphql-pouch": "file:/Users/josh/Development/repos/graphql-pouch"
+    "graphql-pouch": "https://github.com/joshglenn/graphql-pouch.git"
   }
 }
