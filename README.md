@@ -6,4 +6,4 @@ This is a sample project using graphql-pouch. The master branch is based on the 
 
 1. Clone this repo
 2. Run `yarn` to install
-3. Follow the instructions in the graphql-pouch documentation. Only, when you see `graphql-pouch --whatever` commands, place the word yarn in front of them, like this: `yarn graphql-pouch --whatever`
+3. Follow the instructions in the graphql-pouch [documentation](https://github.com/MikeBild/graphql-pouch/blob/master/doc/getting-started.md). Only, when you see `graphql-pouch --whatever` commands, place the word yarn in front of them, like this: `yarn graphql-pouch --whatever`
